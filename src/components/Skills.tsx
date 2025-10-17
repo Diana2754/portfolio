@@ -6,7 +6,7 @@ const Skills = () => {
     },
     {
         category: 'Backend',
-        skills: ['C++',  'Node JS', 'PostgreSQL', 'MongoDB'],
+        skills: ['C++',  'Node JS', 'PostgreSQL', 'MongoDB', '.NET'],
     },
     {
         category: 'Quality Assurance',
